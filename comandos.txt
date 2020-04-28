@@ -1,0 +1,34 @@
+adonis
+adonis new -h
+adonis new gonode --api only
+
+adonis serve --dev
+
+npm install eslint
+npx eslint --init
+
+use popular
+standart
+json
+
+
+"globals": {
+  "use": true
+}
+
+npm i --save pg
+
+adonis migration:run
+adonis make:controller User
+
+adonis route:list
+adonis make:controller Session
+
+adonis migration:rollback
+adonis migration:run
+
+adonis install @adonisjs/validator
+
+adonis make:validator User
+
+adonis make:ehandler
